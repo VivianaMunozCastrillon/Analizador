@@ -1,0 +1,5 @@
+if (a == 5) {
+    b = true;
+} else {
+    b = false;
+}
